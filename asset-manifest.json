@@ -1,14 +1,14 @@
 {
   "main.css": "/static/css/main.e8854a17.chunk.css",
-  "main.js": "/static/js/main.3eec5cfc.chunk.js",
-  "main.js.map": "/static/js/main.3eec5cfc.chunk.js.map",
+  "main.js": "/static/js/main.d8eb1774.chunk.js",
+  "main.js.map": "/static/js/main.d8eb1774.chunk.js.map",
   "static/js/1.6ac32528.chunk.js": "/static/js/1.6ac32528.chunk.js",
   "static/js/1.6ac32528.chunk.js.map": "/static/js/1.6ac32528.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/Boss02.module.scss": "/static/media/hour-hand.69701382.svg",
+  "static/media/Boss02.module.scss": "/static/media/minute-hand.5e328777.svg",
   "static/css/main.e8854a17.chunk.css.map": "/static/css/main.e8854a17.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.4186402a58a578c040f2bf51389613bb.js": "/precache-manifest.4186402a58a578c040f2bf51389613bb.js",
+  "precache-manifest.f684268c4b52be8d7d6cbc4c3faa7f8c.js": "/precache-manifest.f684268c4b52be8d7d6cbc4c3faa7f8c.js",
   "service-worker.js": "/service-worker.js"
 }
